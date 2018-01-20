@@ -66,6 +66,13 @@
 ul {
     list-style: none;
 }
+.style-disc {
+    list-style: disc;
+}
+.font-weight-bolder {
+    font-weight: bold;
+}
+
 #photo {
     width: 200px;
     height: 200px;
